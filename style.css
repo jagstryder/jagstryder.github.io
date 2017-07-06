@@ -186,6 +186,11 @@ h5 {
 h6 {
   font-size: 16px;
 }
+h7 {
+  font-size: 12px;
+  display: block;
+  width: 180px;
+}
 .serif {
   font-family: serif;
 }
